@@ -1,8 +1,3 @@
-
-.equals{
-    width: 145px;
-}
-
 *{
     margin: 0;
     padding: 0;
@@ -60,6 +55,10 @@ form .display input{
     box-shadow: none;
 }
 
-.equals{
+.button,.equals{
+    width: 145px;
+}
+
+#equals{
     width: 145px;
 }
